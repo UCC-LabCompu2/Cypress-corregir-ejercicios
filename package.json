@@ -1,0 +1,16 @@
+{
+  "name": "cypress-labcompu2",
+  "version": "1.0.0",
+  "description": "Cypress Project to auto-correct students repositories",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "labCompu2",
+    "ejercicios"
+  ],
+  "author": "Agustina Edme Aliciardi",
+  "license": "ISC"
+}
