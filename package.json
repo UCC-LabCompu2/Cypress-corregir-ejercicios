@@ -4,7 +4,9 @@
   "description": "Cypress Project to auto-correct students repositories",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "tests": "./node_modules/.bin/cypress run --spec 'cypress/integration/tests/**/*'"
+
   },
   "keywords": [
     "cypress",
@@ -12,5 +14,8 @@
     "ejercicios"
   ],
   "author": "Agustina Edme Aliciardi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.3"
+  }
 }
