@@ -1,7 +1,14 @@
 [
     {
+        "id": 0,
         "name": "Agustina Edmé Aliciardi",
-        "github_exercises": "https://github.com/UCC-LabCompu2/ejercicios2021-edme88",
+        "github_user": "edme88",
         "email": "edmealiciardi@gmail.com"
+    },
+    {
+        "id": 1,
+        "name": "María Eugenia Castagnora",
+        "github_user": "MEugeC",
+        "email": ""
     }
 ]

@@ -20,5 +20,6 @@ Trabajo práctico N°7: Aplicaciones Móviles
 
 ## Modo de instalación
 `npm install`
+
 ## Modo de ejecución
 `npm run cypress:open`
